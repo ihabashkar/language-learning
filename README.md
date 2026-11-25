@@ -1,4 +1,3 @@
-ls 
 A language learning application focused strictly on **Modern Standard Arabic (MSA)**. The project is also a hands-on way to learn full-stack application development: programming languages and syntax, APIs, databases, and system design.
 
 ## Project status
